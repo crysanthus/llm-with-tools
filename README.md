@@ -1,3 +1,5 @@
+# Blog Post (https://crysanthus.blogspot.com/2024/11/building-intelligent-calculator-with.html)
+
 # llm-with-tools
 In this blog post, I explore how to create an intelligent calculator by leveraging Ollama's API and function injection capabilities. This implementation showcases how Large Language Models (LLMs) can be enhanced with custom functions to perform specific tasks.
 
